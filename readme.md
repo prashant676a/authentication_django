@@ -20,7 +20,7 @@ This project is a Django REST API for user authentication using Simple JWT (JSON
 2. Navigate to the project directory:
 
     ```bash
-    cd djangoauthapi
+    cd authentication_django/djangoauthapi
 
 3. Create a virtual Environment(recommended)
     ```bash
